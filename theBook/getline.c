@@ -1,7 +1,7 @@
 // Character Arrays
 
  #include <stdio.h>
- #define MAXLINE 1000    /* maximu input line size */
+ #define MAXLINE 1000    /* maximum input line size */
 
  int  my_getline(char line[], int maxline);
  void copy(char to[], char from[]);
